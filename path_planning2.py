@@ -28,6 +28,7 @@ bot_ini_pos[1][2]= 0
 all_path = []
 path = []
 
+gittest = 0
 t=0
 z=0
 i=0
